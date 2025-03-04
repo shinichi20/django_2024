@@ -78,4 +78,3 @@ python -m pytest
 
 You may refer to the following screen recording of a Sample React Native app powered by Django REST Framework APIs
 https://drive.google.com/file/d/1Lj6hFGjuC2R3AXSTDvVWBAnW4bNRLl1j/view?usp=sharing for reference.
-# django_2024
